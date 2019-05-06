@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are some of screenshort of this demo.
 
-![alt text](http://prntscr.com/nkwqxf)
+![Alt text](http://prntscr.com/nkwqxf)
+
 
